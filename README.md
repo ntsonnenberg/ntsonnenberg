@@ -1,12 +1,9 @@
-# Hi there 👋
+# Hello Fellow Citizens
 
-## I am a web developer:
+## I'm Nathan Sonnenberg, I'm currently pursuing a Bachelor's of Information Systems at Brigham Young University
 
-- 🔭 I’m currently working on INTEX
-- 🌱 I’m currently learning ASP.NET
-- 👯 I’m looking to collaborate on anything web dev
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### I'm interesting in specializing in either application development, data analytics, or cybersecurity
+
+### I mostly have experience working in Django and ASP.NET Core MVC frameworks.
+
+### I would like to learn more about blockchain technology with regards to development
