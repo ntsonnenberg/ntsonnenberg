@@ -1,8 +1,8 @@
 # Hello Fellow Citizens
 
-## I'm Nathan Sonnenberg, I'm currently pursuing a Bachelor's of Information Systems at Brigham Young University
+## I'm Nathan Sonnenberg, I'm currently pursuing a Master of Information Systems Management degree at Brigham Young University
 
-### I'm interesting in specializing in either application development, data analytics, or cybersecurity
+### I'm interesting in specializing IT security consulting
 
 ### I mostly have experience working in Django and ASP.NET Core MVC frameworks.
 
