@@ -1,9 +1,8 @@
-# Hello Fellow Citizens
+# Welcome
 
-## I'm Nathan Sonnenberg, I'm currently pursuing a Master of Information Systems Management degree at Brigham Young University
+## I am Nathan Sonnenberg. I am the VP of Technology for Enlite Home.
 
-### I'm interesting in specializing IT security consulting
+## I got my master's degree in Information Systems Management and my bachelor's degree in Information Systems at Brigham Young University.
 
-### I mostly have experience working in Django and ASP.NET Core MVC frameworks.
-
-### I would like to learn more about blockchain technology with regards to development
+### I specialize in developing Node and React applications. I'm currently transitioning to Next.js.
+### I am open to taking clients for development work!
