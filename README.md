@@ -1,8 +1,10 @@
-# Welcome
+# Nathan Sonnenberg - VP of Technology at Enlite Home.
 
-## I am Nathan Sonnenberg. I am the VP of Technology for Enlite Home.
+## Graduate of Brigham Young University: Marriot School of Business
+### Master's of Infromation Systems Management
+### Bachelor's of Information Systems
 
-## I got my master's degree in Information Systems Management and my bachelor's degree in Information Systems at Brigham Young University.
-
-### I specialize in developing Node and React applications. I'm currently transitioning to Next.js.
-### I am open to taking clients for development work!
+## Freelance Developer
+### Accepting clients in need to web development work!
+### Specialize in MERN applications
+### Learning Next.js and Gatsby
