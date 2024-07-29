@@ -1,4 +1,4 @@
-# Nathan Sonnenberg - VP of Technology @ Enlite Home
+# Nathan Sonnenberg - Technical Account Manager @ Qualtrics
 
 ## Graduate of Brigham Young University: Marriot School of Business
 * Master of Infromation Systems Management
@@ -12,9 +12,9 @@
 * AWS
 * JavaScript
 * python
-  
-### Learning:
 * Next.js
 * Gatsby
+  
+### Learning:
 * SveltKit
 * Flutter
