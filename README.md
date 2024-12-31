@@ -2,7 +2,7 @@
 Technical Account Manager @ Qualtrics
 
 Graduate of Brigham Young University: Marriot School of Business
-* Master of Infromation Systems Management
+* Master of Information Systems Management
 * Bachelor of Information Systems
 
 ## Freelance Web Developer
