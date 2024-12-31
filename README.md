@@ -4,7 +4,7 @@
 * Master of Infromation Systems Management
 * Bachelor of Information Systems
 
-## Freelance Developer - ACCEPTING CLIENTS
+## Freelance Web Developer
 ### Specialize in:
 * MERN applications
 * Digital Ocean
@@ -14,7 +14,10 @@
 * python
 * Next.js
 * Gatsby
+* MongoDB
+* Firebase
   
 ### Learning:
 * SveltKit
 * Flutter
+* React Native
