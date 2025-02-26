@@ -1,5 +1,5 @@
 # Nathan Sonnenberg
-Technical Account Manager @ Qualtrics
+Technical Success Manager @ Qualtrics
 
 Graduate of Brigham Young University: Marriot School of Business
 * Master of Information Systems Management
