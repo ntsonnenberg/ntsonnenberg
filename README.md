@@ -1,17 +1,14 @@
 # Nathan Sonnenberg
-Technical Success Manager @ Qualtrics
-
-Graduate of Brigham Young University: Marriot School of Business
-* Master of Information Systems Management
-* Bachelor of Information Systems
 
 ## Freelance Web Developer
+I like building things for small businesses.
+
 ### Specialize in:
-* MERN applications
+* MERN stack
 * Digital Ocean
 * Docker
 * AWS
-* JavaScript
+* TypeScript
 * python
 * Next.js
 * Gatsby
